@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use Fiza, please cite it using the DOI below (once minted)."
+title: "Fiza — Verification-Gated Human-AI Co-Development for the Environment (Scaffold)"
+version: "0.1.0"
+type: dataset
+authors:
+  - family-names: Choudhary
+    given-names: Abhishek
+    affiliation: "AyeAI, Hyderabad, India"
+    orcid: "https://orcid.org/0009-0002-0684-8320"
+doi: "__FIZA_DOI__"
+license: CC-BY-SA-4.0
+date-released: 2026-07-11
+url: "https://zistgah.org/fiza/"

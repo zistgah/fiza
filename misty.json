@@ -1,0 +1,17 @@
+{
+  "upload_type": "publication",
+  "publication_type": "preprint",
+  "title": "Fiza \u2014 Verification-Gated Human-AI Co-Development for the Environment (Scaffold)",
+  "version": "0.1.0",
+  "language": "eng",
+  "creators": [ { "name": "Choudhary, Abhishek", "affiliation": "AyeAI, Hyderabad, India", "orcid": "0009-0002-0684-8320" } ],
+  "description": "Fiza (air/atmosphere/environment) is the environmental replica of VGC-Health: a research proposal to let environmental scientists, practitioners and communities contribute to a shared, verification-gated environmental knowledge manifold without writing code, by retargeting the Verification-Gated Human-AI Co-Development (VGC) method from clinic to climate and ecology. Sprint 0 scaffold; the full paper is built incrementally. Part of the Zistgah ecosystem; element-named sibling of zamin (earth) and aab (water).",
+  "keywords": ["verification-gated development","environment","climate","ecology","human-AI collaboration","knowledge manifold","VGC","Zistgah"],
+  "license": "cc-by-sa-4.0",
+  "access_right": "open",
+  "notes": "Copyright (c) 1993-2026 Abhishek Choudhary. All rights reserved except per category. Sole authorship. Replica of VGC-Health (10.5281/zenodo.21303401).",
+  "related_identifiers": [
+    { "relation": "isDerivedFrom", "identifier": "10.5281/zenodo.21303401", "scheme": "doi" },
+    { "relation": "isDerivedFrom", "identifier": "10.5281/zenodo.21264248", "scheme": "doi" }
+  ]
+}
