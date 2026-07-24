@@ -1,0 +1,14 @@
+{
+  "_copyright": "© 1993–2026 Abhishek Choudhary. All rights reserved.",
+  "title": "Fiza — VGC for the environment",
+  "short": "Fiza",
+  "text": "Fiza — VGC for the Environment",
+  "bg": "#0a0e27",
+  "fg": "#d4a843",
+  "hashKey": "s",
+  "sw": "sw.js",
+  "whatsapp": true,
+  "card": true,
+  "stamp": true,
+  "installHint": true
+}
